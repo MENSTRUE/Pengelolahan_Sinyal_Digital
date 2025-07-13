@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mata Kuliah Pengolahan Sinyal Digital
 
 Mata kuliah ini membahas dasar-dasar pemrosesan sinyal dalam domain waktu dan frekuensi, serta aplikasinya dalam berbagai bidang teknik dan ilmu komputer.
@@ -20,3 +21,7 @@ Mata kuliah ini membahas dasar-dasar pemrosesan sinyal dalam domain waktu dan fr
 
 ## Output Pembelajaran
 Mahasiswa mampu memahami prinsip dasar pengolahan sinyal digital dan mengimplementasikannya melalui simulasi dan pemrograman.
+=======
+# Pengelolahan_Sinyal_Digital
+pengelolahan sinyal digital
+>>>>>>> c99aea01698684867b439e5bce14e5d0a7eb9907
