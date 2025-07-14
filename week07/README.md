@@ -23,6 +23,7 @@ Proyek ini merupakan bagian dari tugas kelompok pada mata kuliah Pengolahan Siny
 ### File
 - `cctv-psd.ipynb` – Notebook utama berisi kode dan visualisasi hasil.
 - `README.md` – Deskripsi proyek.
+- https://www.kaggle.com/datasets/suryaprabhakaran2005/road-accidents-from-cctv-footages-dataset – Dataset
 
 ### Kebutuhan Sistem
 - Python ≥ 3.8
